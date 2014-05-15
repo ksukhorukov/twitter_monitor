@@ -1,4 +1,3 @@
-cat stream_parse.rb 
 require "rubygems"
 require "tweetstream"
 require "active_support/core_ext"
